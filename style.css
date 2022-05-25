@@ -115,6 +115,7 @@ header nav .left-side-menu .sub-menu a {
         line-height: 3.6rem;
         text-transform: capitalize;
         transition: all 0.2s;
+        z-index: 99999;
 }
 
 header nav .left-side-menu .sub-menu a li {
