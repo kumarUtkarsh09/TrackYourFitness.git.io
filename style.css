@@ -316,7 +316,7 @@ header .right-side-menu .sub-menu a li:hover {
 }
 
 .common-section .right-side .common-button:hover {
-        background-color: #cc491d;
+        background-color: var(--primary-button-background);
 }
 
 .common-section .right-side .common-button-normal:hover {
